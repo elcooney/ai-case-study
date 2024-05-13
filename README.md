@@ -16,6 +16,8 @@ Bootcamp: DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH, Module 1 Challenge
 ### Who are the founders of the company? 
 Juan Bordallo, CEO (1)
 
+![insert](https://architechtures.com/_next/static/media/arch-gif-big.2b97ce0e.gif)
+
 #### How did the idea for the company (or project) come about? 
 The idea came about by the desire to integrate AI into the architectural design process to improve design efficiency for “global sustainable development.” The founding partner, Juan Bordallo, has extensive experience in the architecture industry, as well as computer design and AI. (2)
 
@@ -23,7 +25,7 @@ The idea came about by the desire to integrate AI into the architectural design 
 ARCHITEchTURES has received **$1.192 million** in funding from various sources since it’s incorporation. In 2018 it was been funded via See VC rounds, with investors including Neinor Homes, Bamboo Venture Capital, Yara Ventures, and more. Later in 2019, it received grant money with EIC as the lead investor. It again received VC investment in 2023. These various funding rounds indicate that ARCHITEChTURES has a diverse approach to funding. 
 
 1. VC Seed Round | Jan 1, 2018 | **$841 K**
-2. Grant| Jul 31, 2019 | **$55.7 K**
+2. Grant | Jul 31, 2019 | **$55.7 K**
 3. Later Stage VC | Jul 19, 2023 | **$300 K**
 
 *(Sources 3, 4, 5 in Addendum at end of report.)*
@@ -49,7 +51,8 @@ Allegedly, ARCHITEchTURES “is the first company in the world to introduce GenA
 
 > “This fact, which is a major barrier to the expansion of architectural design automation technologies, is what prompted a fundamental part of the development of our solution: our AI is born with the vocation of being able to be widely used in any market to effectively produce a global impact on the design process. This has led us to develop a technology based on Deep Learning that is able to learn to design buildings of any typology that can be found on an international scale." (8)
 
-Which technologies are they currently using, and how are they implementing them? ARCHITEchTURES uses Generative AI.(7) "Both Generative Design and Machine Learning involve aided design processes, i.e., we do not draw geometry manually, but ask a program to generate that geometry for us by introducing parameters and objective data." (7)
+#### Which technologies are they currently using, and how are they implementing them? 
+ARCHITEchTURES uses Generative AI.(7) "Both Generative Design and Machine Learning involve aided design processes, i.e., we do not draw geometry manually, but ask a program to generate that geometry for us by introducing parameters and objective data." (7)
 
 ## Landscape
 
@@ -66,22 +69,12 @@ Other companies in this field, AI-assisted architectural design, include: Finch 
 ## Results
 
 #### What has been the business impact of this company so far? 
-ARCHITEchTURES has been adopted by several worldwide real estate developers and architects. It has been used by businesses of all sizes included freelancers and leading companies, including but not limited to: (9)
-    * Larson & Toubro
-    * Kajima Corporation
-    * Neinor Homes
-    * Realiza Arquitetura
-    * isBIM
-    * Asenjo y Asociados
-    * Fundamenta
-    * Constructora Bolivar
-    * Perkins & Will
-    * Rise Residential
+ARCHITEchTURES has been adopted by several worldwide real estate developers and architects. It has been used by businesses of all sizes included freelancers and leading companies, including but not limited to: Larson & Toubro, Kajima Corporation, Neinor Homes, Realiza Arquitetura, isBIM, Asenjo y Asociados, Fundamenta, Constructora Bolivar, Perkins & Will, Rise Residential (9)
 
 #### How is your company performing relative to competitors in the same field?
-Based on funding information available publicly it performs better than similar companies with a similar type of genAI product, such as Veras. Veras raised $286K since 2016. (10)
+Based on funding information available publicly it performs better than similar companies with a similar type of genAI product, such as [Veras](https://www.evolvelab.io/veras). Veras raised $286K since 2016. (10)
 
-It does not perform as well as better-known genAI image creation platforms such as Midjourney. Midjourney is self-funded and has an annual recurring revenue of $200 million. (11) 
+It does not perform as well as better-known genAI image creation platforms such as [Midjourney](https://www.midjourney.com/home). Midjourney is self-funded and has an annual recurring revenue of $200 million. (11) 
  
 This is likely because Midjourney is a broad tool that can be used by a wider pool of users. Floor-plan generating software is a niche that is not widely applicable to industries and users outside of A/E/C industry. Howevery, while midjourney is used by architects for concept development, it is not a useful tool for floor plan generation. 
 
