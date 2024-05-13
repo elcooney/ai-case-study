@@ -31,10 +31,10 @@ ARCHITEchTURES has received **$1.192 million** in funding from various sources s
 *(Sources 3, 4, 5 in Addendum at end of report.)*
 
 According to ARCHITEchTURES blog, they have also received funding from the following investors: (2)
-    * CDTI: Centre for Technological and Industrial Development, part of the Ministry of Economy and Competition.
-    * ERDF: the European Fund for Regional Development (the Fund for Technology).
-    * ENISA: Spanish National Innovation Company.
-    * ICO: State Credit Institution.
+1. CDTI: Centre for Technological and Industrial Development, part of the Ministry of Economy and Competition.
+2. ERDF: the European Fund for Regional Development (the Fund for Technology).
+3. ENISA: Spanish National Innovation Company.
+4. ICO: State Credit Institution.
 
 ## Business Activities
 
