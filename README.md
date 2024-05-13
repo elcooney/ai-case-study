@@ -1,8 +1,8 @@
 # ai-case-study
 Module 1 Challenge
 # ARCHITEchTURES by Smartscapes Studio, S.L.
-*Report by Elizabeth Cooney, *
-*Bootcamp: DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH, Module 1 Challenge, *
+*Report by Elizabeth Cooney, \n
+Bootcamp: DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH, Module 1 Challenge, \n
 *5/13/24*
 
 ## Overview and Origin
